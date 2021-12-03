@@ -1,0 +1,43 @@
+
+body {background: #ebedec;}
+header{background-color: #333366; border-bottom: 1px solid #ebedec;}
+.htop {border-bottom: 1px solid #ebedec;}
+.nav_main{background-color: #333366}
+.htop > ul > li {border-left: 1px solid #a1a1a1}
+.nav_main li:nth-child(2){border-left: 1px solid #a1a1a1;border-right: 1px solid #a1a1a1}
+.global {background-color: #ebedec;}
+.white {border: 10px solid #ebedec;}
+.panel-subname-line::after {background: #526391;}
+.price-border {background-color: #ebedec; border: 1px solid #e1e1e1;}
+.price-border2 {background-color: #ebedec; border: 1px solid #e1e1e1;}
+.panel-subname-line {color: #333366}
+.menu li {border-bottom: 1px solid #ebedec; background: #333366;}
+.sidebar {background: #333366;}
+.wrap .dropdown .dropdown-content {background-color: #33336690 !important;}
+.top-product-name {color: #333366}
+.container-extra {background-color: #ebedec;}
+.ftop {background-color: #333366;  border-bottom: 1px solid #ebedec;}
+footer {background-color: #333366;}
+.copu {background-color: #333366;  border-top: 1px solid #ebedec;}
+.subpanel .panel-subname-line::after {background: #526391;}
+.panel-name {color: #333366}
+.panel-main .Category-name {color: #333366}
+.panel-title span.you-are-in {color: #333366}
+.current-category {color: #333366}
+.category-tree li a {color: #333366}
+.panel-title span.location {color: #333366}
+.main_zag {color: #333366}
+.htop {background-color: #333366;}
+.spanhtop {background-color: #333366;}
+.htop > ul > li > ul {background: #33336690; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);}
+.extend_link {color: #fff; background: #333366;}
+.extend_link:hover {background: #40508c;}
+.extend_link_ex {color: #fff; background: #333366; border: 1px solid #fff;}
+.extend_link_ex:hover {background: #fff; color: #333366;}
+.seller-profile-order-button {color: #fff; background: #333366;}
+.seller-profile-order-button:hover {background: #40508c;}
+.order-btn {color: #fff; background: #333366;}
+.order-btn:hover {background: #40508c; opacity: 1;}
+.select-btn {color: #fff; background: #333366;}
+.select-btn:hover {background: #40508c;}
+.summary{color: #333366;}
